@@ -1,0 +1,28 @@
+﻿  TimingWheel.cpp
+  RedSleepingCat.cpp
+  RedMouse.cpp
+  RedBowl.cpp
+  RedArrow.cpp
+  Player.cpp
+  Partition.cpp
+  GreenSleepingCat.cpp
+  GreenMouse.cpp
+  GreenBowl.cpp
+  GreenArrow.cpp
+  GameTable.cpp
+c:\users\guniya\desktop\ms-cs\cs-501\feedthekittyarcade_tanveen_1014603\feedthekittyarcade_tanveen_1014603\feedthekitty\feedthekitty\gametable.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+c:\users\guniya\desktop\ms-cs\cs-501\feedthekittyarcade_tanveen_1014603\feedthekittyarcade_tanveen_1014603\feedthekitty\feedthekitty\game.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\guniya\desktop\ms-cs\cs-501\feedthekittyarcade_tanveen_1014603\feedthekittyarcade_tanveen_1014603\feedthekitty\feedthekitty\game.cpp(141): warning C4018: '<': signed/unsigned mismatch
+  DiceFaceBase.cpp
+  Dice.cpp
+c:\users\guniya\desktop\ms-cs\cs-501\feedthekittyarcade_tanveen_1014603\feedthekittyarcade_tanveen_1014603\feedthekitty\feedthekitty\dice.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\guniya\desktop\ms-cs\cs-501\feedthekittyarcade_tanveen_1014603\feedthekittyarcade_tanveen_1014603\feedthekitty\feedthekitty\dice.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\guniya\desktop\ms-cs\cs-501\feedthekittyarcade_tanveen_1014603\feedthekittyarcade_tanveen_1014603\feedthekitty\feedthekitty\dice.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bowl.cpp
+  ActualGamePlay.cpp
+  Generating Code...
+c:\users\guniya\desktop\ms-cs\cs-501\feedthekittyarcade_tanveen_1014603\feedthekittyarcade_tanveen_1014603\feedthekitty\feedthekitty\dice.cpp(30): warning C4715: 'Dice::getSymbol': not all control paths return a value
+c:\users\guniya\desktop\ms-cs\cs-501\feedthekittyarcade_tanveen_1014603\feedthekittyarcade_tanveen_1014603\feedthekitty\feedthekitty\dice.cpp(22): warning C4715: 'Dice::getColor': not all control paths return a value
+  FeedTheKitty.vcxproj -> C:\Users\Guniya\Desktop\MS-CS\CS-501\FeedTheKittyArcade_Tanveen_1014603\FeedTheKittyArcade_Tanveen_1014603\FeedTheKitty\Debug\FeedTheKitty.exe
+  FeedTheKitty.vcxproj -> C:\Users\Guniya\Desktop\MS-CS\CS-501\FeedTheKittyArcade_Tanveen_1014603\FeedTheKittyArcade_Tanveen_1014603\FeedTheKitty\Debug\FeedTheKitty.pdb (Full PDB)
